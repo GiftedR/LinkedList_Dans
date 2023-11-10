@@ -1,0 +1,14 @@
+F:\School\Csh\Staggs_LinkedList_Solution\Staggs_LinkedList\obj\Debug\net6.0\Staggs_LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+F:\School\Csh\Staggs_LinkedList_Solution\Staggs_LinkedList\obj\Debug\net6.0\Staggs_LinkedList.AssemblyInfoInputs.cache
+F:\School\Csh\Staggs_LinkedList_Solution\Staggs_LinkedList\obj\Debug\net6.0\Staggs_LinkedList.AssemblyInfo.cs
+F:\School\Csh\Staggs_LinkedList_Solution\Staggs_LinkedList\obj\Debug\net6.0\Staggs_LinkedList.csproj.CoreCompileInputs.cache
+F:\School\Csh\Staggs_LinkedList_Solution\Staggs_LinkedList\bin\Debug\net6.0\Staggs_LinkedList.exe
+F:\School\Csh\Staggs_LinkedList_Solution\Staggs_LinkedList\bin\Debug\net6.0\Staggs_LinkedList.deps.json
+F:\School\Csh\Staggs_LinkedList_Solution\Staggs_LinkedList\bin\Debug\net6.0\Staggs_LinkedList.runtimeconfig.json
+F:\School\Csh\Staggs_LinkedList_Solution\Staggs_LinkedList\bin\Debug\net6.0\Staggs_LinkedList.dll
+F:\School\Csh\Staggs_LinkedList_Solution\Staggs_LinkedList\bin\Debug\net6.0\Staggs_LinkedList.pdb
+F:\School\Csh\Staggs_LinkedList_Solution\Staggs_LinkedList\obj\Debug\net6.0\Staggs_LinkedList.dll
+F:\School\Csh\Staggs_LinkedList_Solution\Staggs_LinkedList\obj\Debug\net6.0\refint\Staggs_LinkedList.dll
+F:\School\Csh\Staggs_LinkedList_Solution\Staggs_LinkedList\obj\Debug\net6.0\Staggs_LinkedList.pdb
+F:\School\Csh\Staggs_LinkedList_Solution\Staggs_LinkedList\obj\Debug\net6.0\Staggs_LinkedList.genruntimeconfig.cache
+F:\School\Csh\Staggs_LinkedList_Solution\Staggs_LinkedList\obj\Debug\net6.0\ref\Staggs_LinkedList.dll
